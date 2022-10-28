@@ -1,0 +1,50 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: 'Montserrat', sans-serif;
+  background: url(https://th.bing.com/th/id/R.edd2f1f66a5a75bc98355c4737d3bf0e?rik=HJPmQ6pzxn0CDA&riu=http%3a%2f%2fmedia.istockphoto.com%2fphotos%2fhacker-concept-picture-id501549144%3fk%3d6%26m%3d501549144%26s%3d170667a%26w%3d0%26h%3dmcwyAf5jJqmCASIGtjfKyu9e60btmc02Z_MdSH7_Lpc%3d&ehk=WJSxF8GKFHTkC35OrYx3Qp8K9Hei3VkfcewPjXEmtdU%3d&risl=&pid=ImgRaw&r=0) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 4rem ;
+  color: #e2dbdb ;
+}
+h2{
+  font-size: 3rem;
+  color: #e2dbdb;
+} 
+
+
+
+
+.buffer{
+  height: 10rem;
+}
+
+.btn{
+  font-weight: 700;
+  border-radius: 300px;
+ text-transform: uppercase; 
+}
+
+
+.btn-primary{
+  background-color: #F05F44 ;
+  border-color: #F05F44;
+}
+.btn-primary:hover{
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 6px;
+}
+
+
+
+.btn-xl{
+  padding: 1rem 2rem;
+}
